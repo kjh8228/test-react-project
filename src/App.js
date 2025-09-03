@@ -13,6 +13,7 @@ function App() {
       <div className="list">
         <h4>글제목</h4>
         <p>2월 17일 발행</p>
+        <h4>추가추가다</h4>
       </div>
     </div>
   );
